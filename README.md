@@ -1,4 +1,3 @@
-````md
 # 📚 Enterprise RAG System
 
 An **Enterprise Retrieval-Augmented Generation (RAG) System** built using **Python, Streamlit, AWS Bedrock, Amazon S3, and Boto3**.  
@@ -128,5 +127,3 @@ AI / ML / Data Science Enthusiast
 
 This project is for educational and portfolio purposes.
 
-```
-```
